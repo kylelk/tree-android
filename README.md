@@ -18,7 +18,7 @@ For more information about the android NDK vist http://developer.android.com/too
 |-- build.sh
 |-- file-tree.txt
 |-- jni
-|   |-- Android.mk
+|   |-- Android.mk  <b>This is the android Makefile</b>
 |   |-- CHANGES
 |   |-- INSTALL
 |   |-- LICENSE
