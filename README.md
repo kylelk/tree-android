@@ -1,8 +1,12 @@
+This project is for porting tree to android
+
+It has some bugs and does not yet work
+
 <h3>Build Instructions</h3>
 
 Run the script "ndk-build" in this directory
 
-For more infomation about the android NDK vist http://developer.android.com/tools/sdk/ndk/index.html
+For more information about the android NDK vist http://developer.android.com/tools/sdk/ndk/index.html
 
 <hr>
 
